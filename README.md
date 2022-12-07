@@ -8,3 +8,5 @@ which leads to drug discovery to improve patient mortality rate
 In this project, I am going to Visualize the gene expression of different samples.
 
 Import the zip file in the R Studio
+
+Run the application from R-Studio
